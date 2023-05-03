@@ -55,18 +55,22 @@ Duration:‌ ‌256‌ ‌Hours‌ of Learning ‌(8 ‌Months)‌ ‌and many m
 - 5‌ ‌Major‌ ‌Projects‌
 - Git‌ ‌and‌ ‌GitHub‌ ‌
 
+# Disclaimer
+> This is my personal checklist. For utilizing the author's roadmap for me, I will strike through what I have learned or basicially understand.
+> Then, I can focus what I'm missing.
 
 # 1 | Python Programming and Logic Building
 I will prefer Python Programming Language. Python is the best for starting your programming journey. Here is the roadmap of python for logic building.
 
-- Python basics, Variables, Operators, Conditional Statements
-- List and Strings
-- While Loop, Nested Loops, Loop Else
-- For Loop, Break, and Continue statements
+- ~~Python basics, Variables, Operators, Conditional Statements~~
+- ~~List and Strings~~
+- ~~While Loop, Nested Loops, Loop Else~~
+- ~~For Loop, Break, and Continue statements~~
 - Functions, Return Statement, Recursion
-- Dictionary, Tuple, Set
-- File Handling, Exception Handling
-- Object-Oriented Programming
+- ~~Dictionary, Tuple, Set~~
+- **File Handling**, Exception Handling
+- **Object-Oriented Programming**
+- Regular Expression
 - Modules and Packages
 
 <a href="https://github.com/hemansnation/Python-Roadmap-2022">In-Depth Roadmap of Python</a>
@@ -77,35 +81,35 @@ Data Structure is the most important thing to learn not only for data scientists
 Understand these topics
 
 - Types of Algorithm Analysis
-- Asymptotic Notation, Big-O, Omega, Theta
-- Stacks
-- Queues
-- Linked List
-- Trees
-- Graphs
-- Sorting
-- Searching
+- ~~Asymptotic Notation, Big-O, Omega, Theta~~
+- ~~Stacks~~
+- ~~Queues~~
+- ~~Linked List~~
+- ~~Trees~~
+- ~~Graphs~~
+- ~~Sorting~~
+- ~~Searching~~
 - Hashing
 
 
 # 3 | Pandas Numpy Matplotlib
-Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Pandas is the best library for analysis. You can use other tools but tools have drag-and-drop features and have limitations. Pandas can be customized as per the need as we can code depending upon the real-life problem.
+Python supports **n-dimensional arrays with Numpy**. For data in **2-dimensions**, **Pandas** is the best library for analysis. You can use other tools but tools have drag-and-drop features and have limitations. Pandas can be customized as per the need as we can code depending upon the real-life problem.
 
 ### Numpy
-- Vectors, Matrix
+- ~~Vectors, Matrix~~
 - Operations on Matrix
-- Mean, Variance, and Standard Deviation
-- Reshaping Arrays
+- ~~Mean, Variance, and Standard Deviation~~
+- ~~Reshaping Arrays~~
 - Transpose and Determinant of Matrix
 - Diagonal Operations, Trace
-- Add, Subtract, Multiply, Dot, and Cross Product.
+- ~~Add, Subtract, Multiply, Dot, and Cross Product.~~
 
 ### Pandas
-- Series and DataFrames
-- Slicing, Rows, and Columns
+- ~~Series and DataFrames~~
+- ~~Slicing, Rows, and Columns~~
 - Operations on DataFrame
 - Different ways to create DataFrame
-- Read, Write Operations with CSV files
+- ~~Read, Write Operations with CSV files~~
 - Handling Missing values, replace values, and Regular Expression
 - GroupBy and Concatenation
 
@@ -120,7 +124,7 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 # 4 | Statistics
 
 ### Descriptive Statistics
-- Measure of Frequency and Central Tendency
+- ~~Measure of Frequency and Central Tendency~~
 - Measure of Dispersion
 - Probability Distribution
 - Gaussian Normal Distribution
@@ -148,21 +152,21 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 # 5 | Machine Learning
 The best way to master machine learning algorithms is to work with the Scikit-Learn framework. Scikit-Learn contains predefined algorithms and you can work with them just by generating the object of the class. These are the algorithm you must know including the types of Supervised and Unsupervised Machine Learning:
 
-- Linear Regression
-- Logistic Regression
-- Decision Tree
-- Gradient Descent
-- Random Forest
-- Ridge and Lasso Regression
+- ~~Linear Regression~~
+- ~~Logistic Regression~~
+- ~~Decision Tree~~
+- ~~Gradient Descent~~
+- ~~Random Forest~~
+- ~~Ridge and Lasso Regression~~
 - Naive Bayes
-- Support Vector Machine
-- KMeans Clustering
+- ~~Support Vector Machine~~
+- ~~KMeans Clustering~~
 
 ### Other Concepts and Topics for ML
 - Measuring Accuracy
 - Bias-Variance Trade-off
 - Applying Regularization
-- Elastic Net Regression
+- ~~Elastic Net Regression~~
 - Predictive Analytics
 - Exploratory Data Analysis
 
@@ -238,11 +242,11 @@ How to use it Visual Perception
 
 # 10 | Structured Query Language (SQL)
 
-- Fundamental to SQL syntax and Installation
-- Creating Tables, Modifiers
-- Inserting and Retrieving Data, SELECT INSERT UPDATE DELETE
+- ~~Fundamental to SQL syntax and Installation~~
+- ~~Creating Tables, Modifiers~~
+- ~~Inserting and Retrieving Data, SELECT INSERT UPDATE DELETE~~
 - Aggregating Data using Functions, Filtering and RegEX
-- Subqueries, retrieve data based on conditions, grouping of Data.
+- ~~Subqueries, retrieve data based on conditions, grouping of Data.~~
 - Practice Questions
 - JOINs
 - Advanced SQL concepts such as transactions, views, stored procedures, and functions.
@@ -315,9 +319,9 @@ We follow project-based learning and we will work on all the projects in paralle
 
 ### [Git & GitHub Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
 
-- Understanding Git
-- Commands and How to commit your first code?
-- How to use GitHub?
+- ~~Understanding Git~~
+- ~~Commands and How to commit your first code?~~
+- ~~How to use GitHub?~~
 - How to make your first open-source contribution?
 - How to work with a team? - Part 1
 - How to create your stunning GitHub profile?
